@@ -1,2 +1,2 @@
 # Alfred_SmallUtils
-Alfred workflows for small tasks that don't need their own repo
+Alfred workflows for trivial tasks and file management
